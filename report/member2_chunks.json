@@ -1,0 +1,348 @@
+{
+  "strategy": "member2_sentence_granular",
+  "chunker": "SentenceChunker(max_sentences_per_chunk=1)",
+  "chunk_count": 31,
+  "chunks": [
+    {
+      "id": "momtest_s0",
+      "content": "# The Mom Test - Core Notes\n\n## The three core rules\n\nThe Mom Test is a method for asking questions that even your mom cannot lie about.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "rule",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 136
+    },
+    {
+      "id": "momtest_s1",
+      "content": "Rule 1: Talk about their life instead of your idea.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 51
+    },
+    {
+      "id": "momtest_s2",
+      "content": "Rule 2: Ask about specifics in the past instead of generics or opinions about the future.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 89
+    },
+    {
+      "id": "momtest_s3",
+      "content": "Rule 3: Talk less and listen more.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 34
+    },
+    {
+      "id": "momtest_s4",
+      "content": "Good customer conversations focus on facts from real behavior.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 62
+    },
+    {
+      "id": "momtest_s5",
+      "content": "Bad customer conversations focus on opinions, hypotheticals, and validation.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 76
+    },
+    {
+      "id": "momtest_s6",
+      "content": "## Why compliments are fool's gold\n\nCompliments are the fool's gold of customer learning: shiny, distracting, and entirely worthless.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "signal",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 133
+    },
+    {
+      "id": "momtest_s7",
+      "content": "People often say nice things to protect your feelings.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 54
+    },
+    {
+      "id": "momtest_s8",
+      "content": "A compliment like \"I love it\" is not evidence of intent to buy.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "signal",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 63
+    },
+    {
+      "id": "momtest_s9",
+      "content": "The right move is to deflect compliments and return to concrete facts.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "signal",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 70
+    },
+    {
+      "id": "momtest_s10",
+      "content": "## How to anchor fluff\n\nFluff includes generic claims, future promises, and hypotheticals.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "signal",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 90
+    },
+    {
+      "id": "momtest_s11",
+      "content": "When someone says \"I always\" or \"I would,\" ask for specific past examples.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 74
+    },
+    {
+      "id": "momtest_s12",
+      "content": "A strong anchoring question is: \"When was the last time that happened?\"\nAnother anchoring question is: \"Can you talk me through that situation?\"\nAnchoring turns vague statements into observable behavior data.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 208
+    },
+    {
+      "id": "momtest_s13",
+      "content": "To anchor fluff, move from generic claims to concrete past behavior.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "signal",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 68
+    },
+    {
+      "id": "momtest_s14",
+      "content": "How do you anchor fluffy customer answers to concrete past behavior?",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "signal",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 68
+    },
+    {
+      "id": "momtest_s15",
+      "content": "Ask for the last real example and the exact workflow.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 53
+    },
+    {
+      "id": "momtest_s16",
+      "content": "## What advancement looks like\n\nA meeting succeeds when it ends with advancement or commitment.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "advancement",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 95
+    },
+    {
+      "id": "momtest_s17",
+      "content": "Advancement means a clear next step in the buying process.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "advancement",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 58
+    },
+    {
+      "id": "momtest_s18",
+      "content": "Commitment means they give up something valuable: time, reputation, or money.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "advancement",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 77
+    },
+    {
+      "id": "momtest_s19",
+      "content": "Examples include: scheduling the next meeting, introducing a decision maker, starting a paid trial, or giving a deposit.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 120
+    },
+    {
+      "id": "momtest_s20",
+      "content": "A meeting that ends with \"Looks great, keep me posted\" usually failed.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 70
+    },
+    {
+      "id": "momtest_s21",
+      "content": "What signals show that a customer meeting has truly advanced?",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 61
+    },
+    {
+      "id": "momtest_s22",
+      "content": "A concrete next step and a real commitment.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "advancement",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 43
+    },
+    {
+      "id": "momtest_s23",
+      "content": "## What to do if you pitch too early\n\nIf you accidentally start pitching too soon, apologize immediately.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 105
+    },
+    {
+      "id": "momtest_s24",
+      "content": "Say that you got excited and want to get back to their workflow.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 64
+    },
+    {
+      "id": "momtest_s25",
+      "content": "Then return to questions about their current behavior and constraints.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 70
+    },
+    {
+      "id": "momtest_s26",
+      "content": "The goal is to remove bias and recover truthful data.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 53
+    },
+    {
+      "id": "momtest_s27",
+      "content": "## Additional practical cues\n\nAsk: \"Where does the money come from?\" in B2B situations.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 87
+    },
+    {
+      "id": "momtest_s28",
+      "content": "Ask: \"Who else should I talk to?\" at the end of each useful conversation.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 73
+    },
+    {
+      "id": "momtest_s29",
+      "content": "If there is no clear next step, the meeting probably did not produce real progress.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 83
+    },
+    {
+      "id": "momtest_s30",
+      "content": "If users are not actively searching for a solution, the problem may not be urgent enough.",
+      "metadata": {
+        "doc_id": "TheMomTest",
+        "chapter": "unknown",
+        "content_type": "general",
+        "strategy": "member2_sentence_granular"
+      },
+      "char_len": 89
+    }
+  ]
+}
